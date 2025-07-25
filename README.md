@@ -8,7 +8,7 @@ This project is an AI-powered medical triage assistant built using LangGraph, Op
 
  💡 Features
 
- Natural language symptom collection
- Symptom classification using OpenAI LLMs
- LangGraph state management to handle multi-turn conversations
- Extendable workflow design for future medical use case
+- Natural language symptom collection
+- Symptom classification using OpenAI LLMs
+- LangGraph state management to handle multi-turn conversations
+- Extendable workflow design for future medical use case
